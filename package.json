@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "mysql": "^2.18.1"
+  },
+  "name": "nodelogin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
